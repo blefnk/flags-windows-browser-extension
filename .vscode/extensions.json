@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "astro-build.houston",
+    "biomejs.biome",
+    "bradlc.vscode-tailwindcss",
+    "chunsen.bracket-select",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "fabiospampinato.vscode-open-multiple-files",
+    "github.github-vscode-theme",
+    "lokalise.i18n-ally",
+    "mikekscholz.pop-icon-theme",
+    "neptunedesign.vs-sequential-number",
+    "streetsidesoftware.code-spell-checker",
+    "thinker.sort-json",
+    "unifiedjs.vscode-mdx",
+    "usernamehw.errorlens",
+    "usernamehw.remove-empty-lines",
+    "yzhang.markdown-all-in-one"
+  ]
+}

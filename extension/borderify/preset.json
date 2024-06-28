@@ -1,0 +1,17 @@
+{
+  "author": "Nazar Kornienko",
+  "content_scripts": [
+    {
+      "js": ["borderify/content.js"],
+      "matches": ["*://*.mozilla.org/*"]
+    }
+  ],
+  "description": "💡 Do you need a cool starter for your next cool browser extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 Mozilla Firefox &amp; Chromium (Google Chrome, Microsoft Edge, Opera, Vivaldi, etc.) 🌐 Visit the repo to get started!",
+  "homepage_url": "https://github.com/blefnk/template-browser-extension",
+  "icons": {
+    "48": "assets/favicon-48.png"
+  },
+  "manifest_version": 2,
+  "name": "Browser Extension Template",
+  "version": "0.1.0"
+}

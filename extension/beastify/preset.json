@@ -1,0 +1,25 @@
+{
+  "author": "Nazar Kornienko",
+  "browser_action": {
+    "default_icon": "assets/icons/beasts-32.png",
+    "default_popup": "beastify/popup/choose-beast.html",
+    "default_title": "Browser Extension Template",
+    "theme_icons": [
+      {
+        "dark": "assets/icons/beasts-32.png",
+        "light": "assets/icons/beasts-32-light.png",
+        "size": 32
+      }
+    ]
+  },
+  "description": "💡 Do you need a cool starter for your next cool browser extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 Mozilla Firefox &amp; Chromium (Google Chrome, Microsoft Edge, Opera, Vivaldi, etc.) 🌐 Visit the repo to get started!",
+  "homepage_url": "https://github.com/blefnk/template-browser-extension",
+  "icons": {
+    "48": "assets/icons/beasts-48.png"
+  },
+  "manifest_version": 2,
+  "name": "Browser Extension Template",
+  "permissions": ["activeTab", "webRequest", "webRequestBlocking"],
+  "version": "0.1.0",
+  "web_accessible_resources": ["assets/beasts/*.jpg"]
+}
